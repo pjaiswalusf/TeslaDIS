@@ -1,0 +1,15 @@
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/bin/Debug/net7.0/Tesla
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/bin/Debug/net7.0/Tesla.deps.json
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/bin/Debug/net7.0/Tesla.runtimeconfig.json
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/bin/Debug/net7.0/Tesla.dll
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/bin/Debug/net7.0/Tesla.pdb
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/obj/Debug/net7.0/Tesla.csproj.AssemblyReference.cache
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/obj/Debug/net7.0/Tesla.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/obj/Debug/net7.0/Tesla.AssemblyInfoInputs.cache
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/obj/Debug/net7.0/Tesla.AssemblyInfo.cs
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/obj/Debug/net7.0/Tesla.csproj.CoreCompileInputs.cache
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/obj/Debug/net7.0/Tesla.dll
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/obj/Debug/net7.0/refint/Tesla.dll
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/obj/Debug/net7.0/Tesla.pdb
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/obj/Debug/net7.0/Tesla.genruntimeconfig.cache
+/Users/pratikjaiswal/Downloads/DIS /Tesla/Tesla/obj/Debug/net7.0/ref/Tesla.dll
