@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,19 +11,27 @@ namespace Tesla
     {
         public static string ModelName;
         public static string ModelVersion;
-        public int ModelPrice;
+        public string ModelPrice;
+
+        public string getModel()
+        {
+            return "Model Name is " + ModelName + " of version " + ModelVersion + " having price "+ ModelPrice;
+        }
+
         public Model()
         {
             ModelName = "Model X";
             ModelVersion = "1.0";
-            ModelPrice = 35000;
+            ModelPrice = "35000";
         }
 
-        public Model(string modelName, string modelVersion,int modelPrice)
+        public Model(string modelName, string modelVersion,string modelPrice)
         {
             ModelName = modelName;
             ModelVersion = modelVersion;
             this.ModelPrice = modelPrice;
         }
+
+        
     }
 }

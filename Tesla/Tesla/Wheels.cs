@@ -9,21 +9,20 @@ namespace Tesla
     internal class Wheels : Model
     {
         public static string WheelManufacturer;
-        public static string WheelVersion;
-        public string WheelDiameter;
-
+        public string WheelSize;
         public Wheels()
         {
             WheelManufacturer = "Bridgestone";
-            WheelVersion = "1.0";
-            WheelDiameter = "26''";
         }
 
-        public Wheels(string wheelManufacturer, string wheelVersion, string wheelDiameter)
+        public string getWheelSize()
         {
-            WheelManufacturer = wheelManufacturer;
-            WheelVersion = wheelVersion;
-            this.WheelDiameter = wheelDiameter;
+            return WheelSize;
+        }
+
+        public void setWheelSize(string value)
+        {
+            WheelSize = value;
         }
     }
 }
